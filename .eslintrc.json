@@ -1,0 +1,4 @@
+{
+  // "extends": ["next", "prettier"], suggested
+  "extends": ["next/core-web-vitals", "next", "prettier"]
+}
